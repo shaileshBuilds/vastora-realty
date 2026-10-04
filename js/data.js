@@ -173,7 +173,7 @@ const INT = [
   "assets/images/interiors/interior-bedroom.jpg",
   "assets/images/interiors/interior-bathroom.jpg",
   "assets/images/interiors/interior-dining.jpg",
-  "/images/luxury_homes/luxury_home_3.jpg",
+  "images/luxury_homes/luxury_home_3.jpg",
   "assets/images/interiors/interior-office.jpg"
 ];
 
@@ -198,61 +198,62 @@ const IMG = {
 
     // VILLA - 5 IMAGES
     villa: [
-      "/images/villa/villa_1.jpg",
-      "/images/villa/villa_2.jpg",
-      "/images/villa/villa_3.jpg",
-      "/images/villa/villa_4.jpg",
-      "/images/villa/villa_5.jpg",
+      "images/villa/villa_1.jpg",
+      "images/villa/villa_2.jpg",
+
+      "images/villa/villa_4.jpg",
+      "images/villa/villa_5.jpg",
+      "images/villa/villa_3.jpg",
 
     ],
 
 
     // LUXURY HOMES - 5 IMAGES
     luxuryhomes: [
-      "/images/luxury_homes/luxury_home_1.jpg",
-      "/images/luxury_homes/luxury_home_3.jpg",
-      "/images/luxury_homes/luxury_home_4.jpg",
-      "/images/luxury_homes/luxury_home_5.jpg"
+      "images/luxury_homes/luxury_home_1.jpg",
+      "images/luxury_homes/luxury_home_3.jpg",
+      "images/luxury_homes/luxury_home_4.jpg",
+      "images/luxury_homes/luxury_home_5.jpg"
     ],
 
 
     // MODERN APARTMENTS - 5 IMAGES
     modernapartments: [
-        "/images/modern_apartment/Modern_apartment_1.jpg",
-        "/images/modern_apartment/modern_apartment_2.jpg",
-        "/images/modern_apartment/modern_apartment_3.jpg",
-        "/images/modern_apartment/modern_apartment_4.jpg",
-        "/images/modern_apartment/modern_apartment_5.jpg",
+        "images/modern_apartment/Modern_apartment_1.jpg",
+        "images/modern_apartment/modern_apartment_2.jpg",
+        "images/modern_apartment/modern_apartment_3.jpg",
+        "images/modern_apartment/modern_apartment_4.jpg",
+        "images/modern_apartment/modern_apartment_5.jpg",
     ],
 
 
     // TOWER - 5 IMAGES
     tower: [
-      "/images/modern_apartment/Modern_apartment_1.jpg",
-      "/images/modern_apartment/modern_apartment_2.jpg",
-      "/images/modern_apartment/modern_apartment_3.jpg",
-      "/images/modern_apartment/modern_apartment_4.jpg",
-      "/images/modern_apartment/modern_apartment_5.jpg"
+      "images/modern_apartment/Modern_apartment_1.jpg",
+      "images/modern_apartment/modern_apartment_2.jpg",
+      "images/modern_apartment/modern_apartment_3.jpg",
+      "images/modern_apartment/modern_apartment_4.jpg",
+      "images/modern_apartment/modern_apartment_5.jpg"
     ],
 
 
     // OFFICE - 5 IMAGES
     office: [
-      "/images/commercial_spaces/commercial_space_2.jpg",
-      "/images/commercial_spaces/commercial_space_1.jpg",
-      "/images/commercial_spaces/commercial_space_3.jpg",
-      "/images/commercial_spaces/commercial_space_4.jpg",
-      "/images/commercial_spaces/commercial_space_5.jpg"
+      "images/commercial_spaces/commercial_space_2.jpg",
+      "images/commercial_spaces/commercial_space_1.jpg",
+      "images/commercial_spaces/commercial_space_3.jpg",
+      "images/commercial_spaces/commercial_space_4.jpg",
+      "images/commercial_spaces/commercial_space_5.jpg"
     ],
 
 
     // PLOT - 5 IMAGES
     plot: [
-      "/images/rental_plots/rental_plot_1.jpg",
-      "/images/rental_plots/rental_plot_2.jpg",
-      "/images/rental_plots/rental_plot_3.jpg",
-      "/images/rental_plots/rental_plot_4.jpg",
-      "/images/rental_plots/rental_plot_5.jpg",
+      "images/rental_plots/rental_plot_1.jpg",
+      "images/rental_plots/rental_plot_2.jpg",
+      "images/rental_plots/rental_plot_3.jpg",
+      "images/rental_plots/rental_plot_4.jpg",
+      "images/rental_plots/rental_plot_5.jpg",
     ]
 
   },
@@ -264,27 +265,27 @@ const IMG = {
 
   // CATEGORY IMAGES
   cat: [
-    "/images/category/category_luxory_homes.jpg",
-    "/images/category/category_apartments.jpg",
-    "/images/category/category_villas.jpg",
-    "/images/category/category-commercial.jpg",
-    "/images/category/catogarty_plots.jpg"
+    "images/category/category_luxory_homes.jpg",
+    "images/category/category_apartments.jpg",
+    "images/category/category_villas.jpg",
+    "images/category/category-commercial.jpg",
+    "images/category/catogarty_plots.jpg"
   ],
 
 
   // ABOUT SECTION
   about: [
-    "/images/about/about-agency.jpg",
+    "images/about/about-agency.jpg",
     "assets/images/about/about-bg.jpg"
   ],
 
 
   // AGENT IMAGES
   ag: [
-    "/images/agents/agent-1.jpg",
-    "/images/agents/agent-2.jpg",
-    "/images/agents/agent-3.jpg",
-    "/images/agents/agent-4.jpg",
+    "images/agents/agent-1.jpg",
+    "images/agents/agent-2.jpg",
+    "images/agents/agent-3.jpg",
+    "images/agents/agent-4.jpg",
   ],
 
 
@@ -299,10 +300,10 @@ const IMG = {
 
   // BLOG IMAGES
   blog: [
-    "/images/showcase-luxury.jpg",
-    "/images/about/about-agency.jpg",
-    "/images/property/property-1.jpg",
-    "/images/property/property-2.jpg",
+    "images/showcase-luxury.jpg",
+    "images/about/about-agency.jpg",
+    "images/property/property-1.jpg",
+    "images/property/property-2.jpg",
   ],
 
 
