@@ -186,10 +186,10 @@ const IMG = {
 
   // HERO SLIDER
   hero: [
-    "/images/01_hero/hero_1.jpg",
-    "/images/01_hero/hero_2.jpg",
-    "/images/01_hero/hero_3.jpg",
-    "/images/01_hero/hero_4.jpg"
+    "images/01_hero/hero_1.jpg",
+    "images/01_hero/hero_2.jpg",
+    "images/01_hero/hero_3.jpg",
+    "images/01_hero/hero_4.jpg"
   ],
 
 
